@@ -1,3 +1,7 @@
+# In order to run the project , please enter to the client folder and run: 'npm install'
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
